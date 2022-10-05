@@ -33,4 +33,7 @@ Move the file betty from /tmp/ to /tmp/my_first_directory.
 #!/bin/bash
 mv /tmp/betty /tmp/my_first_directory
 
+Delete the file betty.
+rm /tmp/my_first_directory/betty
+
 
