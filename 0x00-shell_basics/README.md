@@ -6,4 +6,4 @@ Display the contents list of your current directory.
 ls
 
 Script that changes the working directory to the user’s home directory.
-#!/bin/bash                                                                     cd HOME 
+#!/bin/bash                                                                     cd /root 
