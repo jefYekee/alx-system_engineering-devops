@@ -14,5 +14,6 @@ ls -l
 
 Display current directory contents, including hidden files (starting with .).
 #!/bin/bash
-ls -lsa
+ls -la
+
 
