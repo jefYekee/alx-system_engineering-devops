@@ -31,6 +31,6 @@ mkdir -p /tmp/my_first_directory/
 
 Move the file betty from /tmp/ to /tmp/my_first_directory.
 #!/bin/bash
-mv betty /tmp /tmp/my_first_directory
+mv /tmp/betty /tmp/my_first_directory
 
 
