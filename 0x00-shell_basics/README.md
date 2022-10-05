@@ -29,4 +29,8 @@ Create a script that creates a directory named my_first_directory in the /tmp/ d
 #!/bin/bash
 mkdir -p /tmp/my_first_directory/
 
+Move the file betty from /tmp/ to /tmp/my_first_directory.
+#!/bin/bash
+mv betty /tmp /tmp/my_first_directory
+
 
