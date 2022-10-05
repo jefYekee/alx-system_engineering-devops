@@ -10,4 +10,9 @@ Script that changes the working directory to the user’s home directory.
 
 List current directory contents in a long format
 #!/bin/bash
-ls -l 
+ls -l
+
+Display current directory contents, including hidden files (starting with .).
+#!/bin/bash
+ls -lsa
+
