@@ -23,6 +23,6 @@ Display current directory contents.
     And hidden files (starting with .)
 
 #!/bin/bash
-ls -lsa
+ls -na
 
 
